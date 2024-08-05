@@ -1,0 +1,4 @@
+[submodule "packages/package"]
+	path = packages/package
+	url = https://github.com/alessio-libardi-zupit/package.git
+	branch = main
